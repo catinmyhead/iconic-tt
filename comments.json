@@ -7,6 +7,13 @@
             "title": "comment_1",
             "date": "2019-01-02T21:58:25", 
             "comment": "Comment"
-        } 
+        },
+        {
+            "id": 2,
+	    "post_id": 1,
+	    "title": "whatever",
+	    "date": "2020-01-01 03:00:00",
+	    "comment": "12345 and that's all"
+	}	
     ]
 } 
